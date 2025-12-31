@@ -764,7 +764,7 @@ do
     -- PASTE CONTENT OF SCRIPT 1 BELOW THIS LINE
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 execCmd("animation 93224413172183")
-execCmd("maxzoom 1000")
+execCmd("maxzoom 200")
     
     -- PASTE CONTENT OF SCRIPT 1 ABOVE THIS LINE
     print("--- Script 1 Finished ---")
